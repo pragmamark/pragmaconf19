@@ -7,3 +7,5 @@ A collection of slide decks, videos and other material from the Pragma Conferenc
 * **MATTT** | [@mattt](https://twitter.com/mattt) - "Engineering best practices, mi fan un baffo!": adopting engineering best practices for iOS teams: [Slides](https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragmaconf_2019_-_mi_fan_un_baffo.pdf)
 
 ### Friday, October 11th 2019
+
+* **ALEKSANDAR VACIĆ** | [@radiantav](https://twitter.com/radiantav) - SwiftUI for UIKit developers: [Slides & Transcript](https://speakerdeck.com/radianttap/swiftui-for-uikit-developers)
