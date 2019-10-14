@@ -14,5 +14,6 @@ A collection of slide decks, videos and other material from the Pragma Conferenc
 
 ### Friday, October 11th 2019
 
-- **ALEKSANDAR VACIĆ** | [@radiantav](https://twitter.com/radiantav) - SwiftUI for UIKit developers | [Slides & Transcript](https://speakerdeck.com/radianttap/swiftui-for-uikit-developers)
-- **JEROEN BAKKER** | [@jeroenbios](https://twitter.com/jeroenbios) - Developing an app with DiffableDataSource | [Slides](https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_diffableDataSource.pdf)
+* **ALEKSANDAR VACIĆ** | [@radiantav](https://twitter.com/radiantav) - SwiftUI for UIKit developers | [Slides & Transcript](https://speakerdeck.com/radianttap/swiftui-for-uikit-developers)
+* **JEROEN BAKKER** | [@jeroenbios](https://twitter.com/jeroenbios) - Developing an app with DiffableDataSource | [Slides](https://github.com/pragmamark/pragmaconf19/blob/master/slides/pragma_conf_2019_diffableDataSource.pdf)
+* **SOROUSH KHANLOU** | [@khanlou](https://twitter.com/khanlou) - From problem to solution | [Slides](https://github.com/pragmamark/pragmaconf19/blob/master/slides/Pragma_conference_2019_Soroush_Khanlou_From_problem_to_solution.pdf)
